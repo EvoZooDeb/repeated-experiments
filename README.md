@@ -10,6 +10,6 @@ Each categories will be represented equally.
 cheers :)
 
 
-Further plans:
 
-create a function... package?
+Further plans:
+  create a function... package?
