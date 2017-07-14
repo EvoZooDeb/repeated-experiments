@@ -30,3 +30,42 @@ while(stop==F) {
 table(Z)
 Z
 
+## Output of the code above
+> table(Z)
+Z
+ a  b  c  d 
+16 16 16 16 
+> Z
+  [,1] [,2]
+Z "a"  "b" 
+  "d"  "a" 
+  "b"  "d" 
+  "d"  "b" 
+  "d"  "b" 
+  "b"  "a" 
+  "c"  "a" 
+  "c"  "a" 
+  "a"  "b" 
+  "a"  "c" 
+  "a"  "c" 
+  "d"  "c" 
+  "d"  "b" 
+  "d"  "c" 
+  "c"  "a" 
+  "c"  "a" 
+  "b"  "a" 
+  "b"  "a" 
+  "c"  "d" 
+  "c"  "d" 
+  "b"  "c" 
+  "d"  "a" 
+  "d"  "b" 
+  "c"  "a" 
+  "c"  "a" 
+  "b"  "c" 
+  "d"  "b" 
+  "c"  "b" 
+  "a"  "d" 
+  "c"  "d" 
+  "d"  "b" 
+  "b"  "d"
