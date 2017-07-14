@@ -8,3 +8,8 @@ You can make this random ordered category list with this code.
 Each categories will be represented equally.
 
 cheers :)
+
+
+Further plans:
+
+create a function... package?
